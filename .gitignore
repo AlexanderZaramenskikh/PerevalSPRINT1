@@ -1,0 +1,3 @@
+mountain_pass/mountain_pass.env
+# Project exclude paths
+/venv/
